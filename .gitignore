@@ -1,0 +1,12 @@
+db/chroma.sqlite3
+.env
+mass_scraping_test.py
+news_database.db
+scraping_success_rates.png
+scraping_test.ipynb
+telangana_news_output.json
+url_ranker.py
+url_scraper.py
+valid_vs_invalid_articles.png
+__pycache__/indian_states.cpython-312.pyc
+poetry.lock

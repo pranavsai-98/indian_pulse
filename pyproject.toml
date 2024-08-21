@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "global-pulse"
+version = "0.1.0"
+description = "Gloabl news summarization and analysis using AI agents to gather, process and visualize the current events and sentiments from around the world"
+authors = ["Pranav Sai Putta"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+python-dotenv = "^1.0.1"
+beautifulsoup4 = "^4.12.3"
+requests = "^2.32.3"
+streamlit = "^1.37.1"
+crewai = "^0.51.1"
+langchain = "^0.2.13"
+langchain-openai = "^0.1.21"
+pydantic = "^2.8.2"
+pandas = "^2.2.2"
+matplotlib = "^3.9.2"
+plotly = "^5.23.0"
+nltk = "^3.8.2"
+aiohttp = "^3.10.3"
+geopandas = "^1.0.1"
+crewai-tools = "^0.8.3"
+tools = "^0.1.9"
+newspaper3k = "^0.2.8"
+trafilatura = "^1.12.0"
+certifi = "^2024.7.4"
+scrapegraphai = {extras = ["burr"], version = "^1.14.0"}
+aiolimiter = "^1.1.0"
+aiofiles = "^24.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

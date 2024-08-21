@@ -1,0 +1,44 @@
+{
+    "high": [
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Tamil Nadu",
+        "Karnataka",
+        "Gujarat",
+        "West Bengal",
+        "Delhi",
+        "Andhra Pradesh",
+        "Telangana"
+    ],
+    "medium": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Kerala",
+        "Punjab",
+        "Haryana",
+        "Bihar",
+        "Odisha",
+        "Jammu and Kashmir",
+        "Assam",
+        "Jharkhand"
+    ],
+    "low": [
+        "Chhattisgarh",
+        "Uttarakhand",
+        "Himachal Pradesh",
+        "Goa",
+        "Tripura",
+        "Meghalaya",
+        "Manipur",
+        "Nagaland",
+        "Arunachal Pradesh",
+        "Mizoram",
+        "Sikkim",
+        "Chandigarh",
+        "Puducherry",
+        "Andaman and Nicobar Islands",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Lakshadweep"
+    ]
+}
